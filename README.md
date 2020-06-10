@@ -1,6 +1,6 @@
 # SQL
 SQL Learning
-### Famoud Superstore dataset addded with different tables as follows:
+### Famous Superstore dataset addded with different tables as follows:
 
 **orders**
 
