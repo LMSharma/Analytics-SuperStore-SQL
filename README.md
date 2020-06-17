@@ -1,21 +1,7 @@
 # SQL
 SQL Learning
-### Famous Superstore dataset addded with different tables as follows:
+### Famous Superstore dataset 
 
-**orders**
+### DB_Schema
 
-**city**
-
-**state**
-
-**customer**
-
-**region**
-
-**products**
-
-**category**
-
-**sub_category**
-
-**enums**
+![SuperStore Data Database schema](https://github.com/LMSharma/SQL/raw/master/Superstore_data_db_schema.png)
