@@ -1,7 +1,13 @@
 ## SQL for Data Analysis
-### Superstore dataset 
 
-## Installation
+[superstoreDump.sql](https://github.com/LMSharma/Analytics-SQL/blob/master/superstoreDump.sql) containes data in the normalized form.
+
+Original Data Set : [Superstore Dataset on Tableau](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls?language=en_US)
+
+I have to remove some of the rows in order to mantain ACID properties. Dump was taken using [PostgreSQL](https://www.postgresql.org) .
+Mentioned questions are based on analytical purpose from Basics to Advanced level.
+
+## PostgreSQL Installation
 For Postgres Setup follow the links:
 * [Ubuntu](https://www.howtoforge.com/how-to-install-postgresql-and-pgadmin4-on-ubuntu-1804-lts/)
 * [Windows](https://www.postgresql.org/download/windows/)
