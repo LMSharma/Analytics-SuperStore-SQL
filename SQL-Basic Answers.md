@@ -4,7 +4,7 @@ select count(*) from city;
 ```
 2. 531 
 ```SQL
-select distinct(name) from city;
+select distinct(name) from city limit 10;
 ```
 3.
 ```SQL
